@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string-array name="spin">
+        <item>Priority</item>
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
